@@ -1,0 +1,24 @@
+div{
+    text-align: left;
+    
+}
+h1{
+    font-size: small    ;
+}
+
+.result{
+    text-align: left;
+    font-size: large;
+}
+
+input[type="text"]{
+    width: 70px;
+    height: 20px;   
+}
+input[type="submit"]{
+    
+    height: 20px;   
+}
+.maincontainer{
+    text-align: center;
+}
