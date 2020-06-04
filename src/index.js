@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
 import Form from './form'
-
+import Graph from './graph'
 ReactDOM.render(
     <div>
     <Form></Form>
-    
+    <Graph></Graph>
     </div>,
   document.getElementById('root')
 );

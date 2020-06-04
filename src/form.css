@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+}
+h1{
+    font-size: small;
+}

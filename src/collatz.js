@@ -15,6 +15,10 @@ export function generateCollatz(n) {
         numbers.push(n);
     }
     const len = numbers.length
-
-    return [len, numbers]
+    
+    
+    
+        return [len, numbers]
+    
+    
 }
